@@ -23,7 +23,9 @@ When the game first starts allow each player to choose which character they want
 Create a Game class that manages the game state (instead of using the view controller)
 
 **Assignment from "iOS 9 and Swift 2: From Beginner to Paid Professional" course on udemy.com
+**Images were provided, sound files found on freesound.org
+
 
 Can be found on App Store at https://itunes.apple.com/us/app/knights-vs-ogres/id1137453234?mt=8
 
-**Images were provided, sound files found on freesound.org
+
