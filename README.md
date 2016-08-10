@@ -24,4 +24,6 @@ Create a Game class that manages the game state (instead of using the view contr
 
 **Assignment from "iOS 9 and Swift 2: From Beginner to Paid Professional" course on udemy.com
 
+Can be found on App Store at https://itunes.apple.com/us/app/knights-vs-ogres/id1137453234?mt=8
+
 **Images were provided, sound files found on freesound.org
